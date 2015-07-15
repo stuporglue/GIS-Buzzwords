@@ -75,7 +75,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * SpatialLite
  * Oracle Spatial
  * MySQL
- * MondoDB
+ * MongoDB
 
 ## Certifications
 

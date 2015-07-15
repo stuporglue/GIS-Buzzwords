@@ -15,6 +15,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 ## GIS Web Services and APIs
 
  * ArcGIS Online
+ * ArcGIS Server REST
  * CartoDB
  * Mapbox
  * Open Street Maps
@@ -26,6 +27,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * OpenLayers 2
  * OL3 (OpenLayers 3)
  * GeoMoose
+ * Esri JavaScript API
 
 ## Server GIS Software
 
@@ -33,6 +35,12 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * MapServer
  * CartoDB (on your own server)
  * Mapnik
+ * ArcGIS Server
+
+## Mobile GIS Software
+
+ * Collector for ArcGIS
+ * ArcGIS Explorer
 
 ## Command-Line GIS Software
 
@@ -47,11 +55,18 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Ruby
  * JavaScript
  * R
+ * C#
+ * .Net
 
 ## Programming Libraries
  
  * d3.js
- * MapFish 
+ * MapFish
+
+## Programming Frameworks
+
+ * Dojo/Dijit
+ * Angular
 
 ## GIS Databases
 
@@ -59,11 +74,14 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Microsoft SQL Server
  * SpatialLite
  * Oracle Spatial
+ * MySQL
+ * MondoDB
 
 ## Certifications
 
  * GISP
- * Esri Technical Certification
+ * Esri Technical Certification(s)
+ * Project Management Professional (PMP)
 
 ## Cartography
 
@@ -81,6 +99,10 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * WMS
  * WFS
  * WFS-T
+ * File Geodatabase
+ * Feature Class
+ * Feature Dataset
+ * Mosaic Dataset (raster)
 
 ## Tasks
 
@@ -91,6 +113,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Watershed
  * Viewshed
  * Solar Analyst
+ * Geocoding
 
 ## Hardware
   
@@ -106,4 +129,8 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * 3D
  * GitHub
  * Geolocation
- * Mobile
+ * Operations Dashboard
+ * Web AppBuilder
+ * App Templates
+ * Portal
+ * Web Adapter

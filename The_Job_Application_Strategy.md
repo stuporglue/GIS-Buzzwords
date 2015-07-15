@@ -2,32 +2,42 @@
 
 #The Job Application Strategy
 
-Some companys may have their own job application process which you'll need to follow, but the following is what I try to do if possible. 
+Some companys may have their own job application process which you'll need to 
+follow, but the following is what I try to do if possible. 
 
-Applying for a job is *much* more than just handing in a resume. It's actually a 6(-ish) part process. The goal of this process is to become an attractive candidate and get an interview.
+Applying for a job is *much* more than just handing in a resume. It's actually 
+a several step process with multiple pieces to each step. The goal of this process is to become an attractive candidate and get an interview.
 
-The strategy is to (1) maximize the amount of time your application is in front of the company and (2) maximize how positively the company percieves you. 
+The strategy is to (1) maximize the amount of time your application is in front 
+of the company and (2) maximize how positively the company percieves you. 
 
 These parts may occur in any order, but may commonly happen like this: 
 
 
 ## 1. The email
 
-You're going to apply by sending an email to the company. The email is the first contact they're going to have with you, so it needs to be good. 
+You're going to apply by sending an email to the company. The email is the first
+contact they're going to have with you, so it needs to be good. 
 
 ### The subject
 
-The subject of the email should include your name and the job description you're applying for
+The subject of the email should include your name and the job description you're 
+applying for
 
  > Joe Gisser's application for the GIS Developer position
 
-You want it to be obvious that it's not spam, obvious which position it's for and obvious who is applying so the person receiving the email can quickly and easily decide what to do with it. 
+You want it to be obvious that it's not spam, obvious which position it's for 
+and obvious who is applying so the person receiving the email can quickly and 
+easily decide what to do with it. 
 
-Chances are, they get dozens or hundreds of emails every day and just want to file the job applications in a folder to review all at once. 
+Chances are, they get dozens or hundreds of emails every day and just want to 
+file the job applications in a folder to review all at once. 
 
 ### The body
 
-In the email you should include a short note in the body of the email. Once again, you are trying to maximize positive perception by making their job easy. The note is like a mini-cover letter. It should include: 
+In the email you should include a short note in the body of the email. Once again,
+you are trying to maximize positive perception by making their job easy. The note 
+is like a mini-cover letter. It should include: 
 
  * Your name again
  * The position you're applying for
@@ -35,7 +45,8 @@ In the email you should include a short note in the body of the email. Once agai
  * How to contact you
  * Your availibility for interviews
 
-If any of the following will help you get an interview, you may also include any of the following: 
+If any of the following will help you get an interview, you may also include any 
+of the following: 
 
  * A mention about how you heard about the position
  * A mention of any previous contact with the company
@@ -66,22 +77,44 @@ Your email message might look like this:
 
 ### The attachment (Resume, Cover Letter and Portfolio)
 
-Your email should include exactly one attachment. The attachment should be a PDF and should include your Cover Letter (page 1), your Resume (page 2, possibly page 3) and your Portfolio (The last page).
+Your email should include exactly one attachment. The attachment should be a PDF 
+and should include your Cover Letter (page 1), your Resume (page 2, possibly 
+page 3) and your Portfolio (The last page).
 
-The attachment should have your name in it, again, to make it easy for the person hiring you to do their job.
+The attachment should have your name in it, again, to make it easy for the person 
+hiring you to do their job.
 
  > Joe_Gisser_Resume.pdf
 
-## The application PDF
+## 2. The application PDF
 
-This is what the hiring person is going to read later when they print off the stack of resumes and cover letters. Page one of this PDF is going to be an AWESOME cover letter. In 2-3 paragraphs It's going to make the hiring person like you and hope that you're qualified. It's going to tell them that you are excited to work for them, and how awesome you are.
+This is what the hiring person is going to read later when they print off the 
+stack of resumes and cover letters. Page one of this PDF is going to be an AWESOME
+cover letter. In 2-3 paragraphs It's going to make the hiring person like you and 
+hope that you're qualified. It's going to tell them that you are excited to work 
+for them, and how awesome you are.
 
-## References
+### Cover Letter
 
-If you have a really solid lead inside the company, then they're going to personally hand in your resume.
+### Resume
 
-if you have a loose contact or associate inside the company or a 2nd degree connection on LinkedIn, you're going to ask your associate if you can mention that you know them when you apply. You may mention this in your cover letter, or you may add a References section to your resume.
+This is the heart of the application and it has its own page: 
+[How to make an awesome resume](How_to_make_an_awesome_resume.md)
 
-## Portfolio
+### Portfolio
 
-Your portfolio may be a list of webmap links, a couple pages of screenshots of desktop maps or model builder routines you've made, or something else. Depending on what you have, this may be combined with Web Links below.
+## 3. References
+
+If you have a really solid lead inside the company, then they're going to 
+personally hand in your resume.
+
+if you have a loose contact or associate inside the company or a 2nd degree 
+connection on LinkedIn, you're going to ask your associate if you can mention 
+that you know them when you apply. You may mention this in your cover letter, 
+or you may add a References section to your resume.
+
+## 4. Portfolio
+
+Your portfolio may be a list of webmap links, a couple pages of screenshots of 
+desktop maps or model builder routines you've made, or something else. Depending 
+on what you have, this may be combined with Web Links below.

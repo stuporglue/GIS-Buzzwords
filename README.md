@@ -48,7 +48,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * MapServer
  * CartoDB (on your own server)
  * Mapnik
- * ArcGIS Server
+ * ArcGIS for Server
  * QGIS Server
 
 ## Mobile GIS Software
@@ -69,6 +69,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Python
     - ArcPy
     - PyQGIS
+    - GDAL/OGR
  * PHP
  * Ruby
  * JavaScript
@@ -87,6 +88,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Angular
  * Django
    - GeoDjango
+ * jQuery
 
 ## GIS Databases
 
@@ -110,6 +112,8 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Mapnik
  * CartoCSS
  * d3.js
+ * Adobe Illustrator
+ * Adobe Photoshop
 
 ## File Formats and Standards
 

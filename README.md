@@ -11,6 +11,9 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 
  * ArcGIS
  * QGIS
+ * MapInfo
+ * MapBox Studio
+ * TileMill
 
 ## GIS Web Services and APIs
 
@@ -18,8 +21,8 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * ArcGIS Server REST
  * CartoDB
  * Mapbox
- * Open Street Maps
- * FulcrumApp.com
+ * Open Street Map
+ * FulcrumApp
 
 ## Web GIS Software
 
@@ -36,21 +39,26 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * CartoDB (on your own server)
  * Mapnik
  * ArcGIS Server
+ * QGIS Server
 
 ## Mobile GIS Software
 
  * Collector for ArcGIS
  * ArcGIS Explorer
+ * Fulcrum
 
 ## Command-Line GIS Software
 
- * gdal
+ * GDAL
+    - ogr
  * LAStools
 
 ## Programming Languages / Environments
 
  * Model Builder
  * Python
+    - ArcPy
+    - PyQGIS
  * PHP
  * Ruby
  * JavaScript
@@ -67,12 +75,16 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 
  * Dojo/Dijit
  * Angular
+ * Django
+   - GeoDjango
 
 ## GIS Databases
 
- * PostGIS
+ * PostgreSQL / PostGIS
  * Microsoft SQL Server
- * SpatialLite
+ * SQLite
+    - SpatialLite
+    - GeoPackage
  * Oracle Spatial
  * MySQL
  * MongoDB
@@ -97,8 +109,10 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * GeoTiff
  * GML
  * WMS
+ * WMTS
  * WFS
  * WFS-T
+ * WCS
  * File Geodatabase
  * Feature Class
  * Feature Dataset

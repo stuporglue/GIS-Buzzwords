@@ -15,6 +15,11 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * MapBox Studio
  * TileMill
 
+## GIS Fieldwork Software
+
+ * ArcPad
+ * Trimble TerraSync
+
 ## GIS Web Services and APIs
 
  * ArcGIS Online
@@ -131,7 +136,10 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 
 ## Hardware
   
- * Trimble
+ * Trimble Geoexplorer (Model #)
+ * Juniper - Archer Field PC (Model #)
+ * Garmin etrex (GPX to SHP conversion)
+ * Trimble - Juno Field PC
  
 ## Words Business People Like
  
@@ -153,3 +161,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * App Templates
  * Portal
  * Web Adapter
+ * Digital Elevation Model (DEM)
+ * Digital Surface Model (DSM)
+ * Digital Terrain Model (DTM)
+ * USGS Quadrangle Map

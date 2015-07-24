@@ -15,6 +15,11 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * MapBox Studio
  * TileMill
 
+## Specific Toolsets within Desktop GIS Software
+ 
+ * Spatial Analyst
+ * Solar Analyst
+
 ## GIS Fieldwork Software
 
  * ArcPad
@@ -145,6 +150,8 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  
  * Robust 
  * Leverage
+ * Process Automation
+ * Data Discovery 
 
 ## Uncategorized
 
@@ -165,3 +172,4 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Digital Surface Model (DSM)
  * Digital Terrain Model (DTM)
  * USGS Quadrangle Map
+ * Military Grid Reference System (MGRS)

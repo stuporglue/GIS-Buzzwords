@@ -132,6 +132,11 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 ## Hardware
   
  * Trimble
+ 
+## Words Business People Like
+ 
+ * Robust 
+ * Leverage
 
 ## Uncategorized
 

@@ -20,7 +20,11 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Spatial Analyst
  * Network Analyst
  * Business Analyst
+ * 3D Analyst
+ * Geostatistical Analyst
+ * Network Analyst
  * Solar Analyst
+ * Tracking Analyst
 
 ## GIS Fieldwork Software
 
@@ -74,7 +78,9 @@ Please fork and submit pull requests with your suggestions. Feel free to include
     - GDAL/OGR
  * PHP
  * Ruby
+ * HTML / CSS
  * JavaScript
+ * SQL / MySQL
  * R
  * C#
  * .Net
@@ -88,6 +94,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 
  * Dojo/Dijit
  * Angular
+ * Bootstrap
  * Django
    - GeoDjango
  * jQuery
@@ -123,27 +130,31 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * ShapeFiles
  * KML/KMZ
  * GeoTiff
- * GML
+ * GML/GPX/XML
  * WMS
  * WMTS
  * WFS
  * WFS-T
  * WCS
- * File Geodatabase
+ * File Geodatabase (GDB)
+ * Personal Geodatabase (MDB / MS Access Database)
  * Feature Class
  * Feature Dataset
  * Mosaic Dataset (raster)
 
 ## Tasks
 
+ * Cartography
+ * Data Analysis
  * Digitizing
- * Rasterization
- * QA/QC
- * Routing
- * Watershed
- * Viewshed
- * Solar Analyst
+ * Documentation
  * Geocoding
+ * QA/QC
+ * Rasterization
+ * Routing
+ * Solar Analyst
+ * Viewshed
+ * Watershed
 
 ## Hardware
   
@@ -152,30 +163,62 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Garmin etrex (GPX to SHP conversion)
  * Trimble - Juno Field PC
  
-## Words Business People Like
+## Project Related Action Verbs
  
- * Robust 
+ * Administer
+ * Analyzing
+ * Building
+ * Coordinate
+ * Creating
+ * Data Discovery
+ * Delivering
+ * Developing
+ * Designing
+ * Leading
  * Leverage
- * Process Automation
- * Data Discovery 
+ * Managing
+ * Process Automation / Automating
+ * Producing
+ * Providing (resources, expertise, etc.)
+ * Reporting (via analysis)
+ * Robust
+ * Running (analyses, projects,)
+ * Serving (as position / role, on a team, etc.)
+ * Using (techniques, methods, packages, etc.)
+
+## Ancillary Software
+ 
+ * Adobe Illustrator (Vector graphics)
+ * Adobe InDesign (Layout and desktop publishing)
+ * Adobe Photoshop (Raster graphics)
+ * Gimp (Open source raster graphics)
+ * Inkscape (Open source vector graphics)
+ * Micorosoft Word (Word processing and desktop publishing)
+ * Microsoft Excel (Spreadsheets)
+ * Microsoft Access (Database)
 
 ## Uncategorized
 
- * ColorBrewer 2.0
- * LiDar
- * Point Cloud
- * CAD
- * Drones
  * 3D
- * GitHub
- * Geolocation
- * Operations Dashboard
- * Web AppBuilder
- * App Templates
- * Portal
- * Web Adapter
+ * CAD
+ * ColorBrewer 2.0 (Color development)
+ * ColorOracle (Color deficiency simulator)
  * Digital Elevation Model (DEM)
  * Digital Surface Model (DSM)
  * Digital Terrain Model (DTM)
- * USGS Quadrangle Map
+ * Drones
+ * Esri Web AppBuilder
+ * App Templates
+ * LiDar
+ * GitHub (Collaborative project hosting)
+ * Web Mapping Applications
+    - Google Maps, Bing maps, Mapbox, Open Street Map, etc.
+ * Geolocation
  * Military Grid Reference System (MGRS)
+ * Operations Dashboard
+ * Point Cloud
+ * Portal for ArcGIS
+ * R / SPSS (Statistical analysis packages)
+ * USGS Quadrangle Map
+ * USGS National Hydrography Dataset (NHD)
+ * Web Adapter

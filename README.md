@@ -30,6 +30,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 
  * ArcPad
  * Trimble TerraSync
+ * Pathfinder Office
 
 ## GIS Web Services and APIs
 
@@ -39,6 +40,8 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Mapbox
  * Open Street Map
  * FulcrumApp
+ * Feature Services
+ * Map Service
 
 ## Web GIS Software
 
@@ -55,6 +58,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * CartoDB (on your own server)
  * Mapnik
  * ArcGIS for Server
+   - ArcSDE
  * QGIS Server
 
 ## Mobile GIS Software
@@ -149,6 +153,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Digitizing
  * Documentation
  * Geocoding
+ * Georeferencing
  * QA/QC
  * Rasterization
  * Routing
@@ -185,6 +190,13 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Running (analyses, projects,)
  * Serving (as position / role, on a team, etc.)
  * Using (techniques, methods, packages, etc.)
+ * Data Integration
+ * Data QA/QC
+ * Map QA/QC
+ * Workflow
+ * Training
+ * Database Design
+ * Best Practices
 
 ## Ancillary Software
  
@@ -222,3 +234,5 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * USGS Quadrangle Map
  * USGS National Hydrography Dataset (NHD)
  * Web Adapter
+ * Versioning
+ * Topology

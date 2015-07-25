@@ -18,6 +18,8 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 ## Specific Toolsets within Desktop GIS Software
  
  * Spatial Analyst
+ * Network Analyst
+ * Business Analyst
  * Solar Analyst
 
 ## GIS Fieldwork Software

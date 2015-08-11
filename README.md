@@ -226,6 +226,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Web Mapping Applications
     - Google Maps, Bing maps, Mapbox, Open Street Map, etc.
  * Geolocation
+ * GeoEvent (Processor/Extension)
  * Military Grid Reference System (MGRS)
  * Operations Dashboard
  * Point Cloud

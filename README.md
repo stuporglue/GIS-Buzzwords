@@ -59,6 +59,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Mapnik
  * ArcGIS for Server
    - ArcSDE
+ * OpenMapTiles Map Server (vector on your own server)
  * QGIS Server
 
 ## Mobile GIS Software
@@ -66,6 +67,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Collector for ArcGIS
  * ArcGIS Explorer
  * Fulcrum
+ * GeoEditor for MapTiler
 
 ## Command-Line GIS Software
 

@@ -9,18 +9,18 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 
 ## Desktop GIS Software
 
- * ArcGIS
- * QGIS
- * MapInfo
- * MapBox Studio
- * TileMill
+ * [ArcGIS](https://desktop.arcgis.com/en/)
+ * [QGIS](https://qgis.org)
+ * [MapInfo](https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro)
+ * [MapBox Studio](https://www.mapbox.com/mapbox-studio)
+ * [TileMill](https://tilemill-project.github.io/tilemill/)
 
 ## Specific Toolsets within Desktop GIS Software
  
- * Spatial Analyst
- * Network Analyst
+ * [Spatial Analyst](https://www.esri.com/en-us/arcgis/products/arcgis-spatial-analyst/overview)
+ * [Network Analyst](https://www.esri.com/en-us/arcgis/products/arcgis-network-analyst/overview)
  * Business Analyst
- * 3D Analyst
+ * [3D Analyst](https://www.esri.com/en-us/arcgis/products/arcgis-3d-analyst/overview)
  * Geostatistical Analyst
  * Network Analyst
  * Solar Analyst
@@ -29,96 +29,96 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 ## GIS Fieldwork Software
 
  * ArcPad
- * Trimble TerraSync
- * Pathfinder Office
+ * [Trimble TerraSync](https://geospatial.trimble.com/products-and-solutions/trimble-terrasync)
+ * [Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/gps-pathfinder-office)
 
 ## GIS Web Services and APIs
 
- * ArcGIS Online
- * ArcGIS Server REST
- * CartoDB
- * Mapbox
- * Open Street Map
- * FulcrumApp
+ * [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
+ * [ArcGIS Server REST](https://developers.arcgis.com/rest/)
+ * [CartoDB](https://carto.com/)
+ * [Mapbox](https://www.mapbox.com/)
+ * [Open Street Map](https://openstreetmap.org)
+ * [FulcrumApp](https://www.fulcrumapp.com/)
  * Feature Services
  * Map Service
 
 ## Web GIS Software
 
- * Leaflet.js
- * OpenLayers 2
- * OL3 (OpenLayers 3)
- * GeoMoose
- * Esri JavaScript API
+ * [Leaflet.js](https://leafletjs.com/)
+ * [OpenLayers 2](https://openlayers.org/two/)
+ * [OL3 (OpenLayers 3)](https://openlayers.org/)
+ * [GeoMoose](https://www.geomoose.org/)
+ * [Esri JavaScript API](https://developers.arcgis.com/javascript/latest/)
 
 ## Server GIS Software
 
- * GeoServer
- * MapServer
- * CartoDB (on your own server)
- * Mapnik
- * ArcGIS for Server
+ * [GeoServer](http://geoserver.org/)
+ * [MapServer](https://mapserver.org/)
+ * [CartoDB (on your own server)](https://cartodb.readthedocs.io/en/latest/install.html)
+ * [Mapnik](https://mapnik.org/)
+ * [ArcGIS for Server](https://enterprise.arcgis.com/en/server/latest/get-started/windows/what-is-arcgis-for-server-.htm)
    - ArcSDE
- * QGIS Server
+ * [QGIS Server](https://docs.qgis.org/3.16/en/docs/server_manual/index.html)
 
 ## Mobile GIS Software
 
- * Collector for ArcGIS
- * ArcGIS Explorer
- * Fulcrum
+ * [Collector for ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-collector/overview) (now ArcGIS Collector)
+ * [ArcGIS Explorer](https://www.esri.com/en-us/arcgis/products/arcgis-explorer/overview)
+ * [Fulcrum](https://www.fulcrumapp.com)
 
 ## Command-Line GIS Software
 
- * GDAL
+ * [GDAL](https://gdal.org/)
     - ogr
- * LAStools
+ * [LAStools](http://lastools.org)
 
 ## Programming Languages / Environments
 
- * Model Builder
- * Python
-    - ArcPy
-    - PyQGIS
-    - GDAL/OGR
+ * [Model Builder](https://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/modelbuilder/what-is-modelbuilder-.htm)
+ * [Python](https://python.org)
+    - [ArcPy](https://www.esri.com/en-us/arcgis/products/arcgis-python-libraries/libraries/arcpy)
+    - [PyQGIS](https://docs.qgis.org/3.16/en/docs/pyqgis_developer_cookbook/index.html)
+    - [GDAL/OGR]()
  * PHP
  * Ruby
  * HTML / CSS
  * JavaScript
- * SQL / MySQL
- * R
- * C#
- * .Net
+ * [SQL / MySQL](https://www.mysql.com)
+ * [R](https://www.r-project.org/)
+ * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+ * [.Net](https://dotnet.microsoft.com/)
 
 ## Programming Libraries
  
- * d3.js
- * MapFish
+ * [d3.js](https://d3js.org/)
+ * [MapFish](http://www.mapfish.org/)
 
 ## Programming Frameworks
 
- * Dojo/Dijit
- * Angular
- * Bootstrap
- * Django
-   - GeoDjango
- * jQuery
+ * [Dojo/Dijit](https://dojotoolkit.org/reference-guide/dijit/)
+ * [Angular](https://angular.io/)
+ * [Bootstrap](https://getbootstrap.com/)
+ * [Django](https://www.djangoproject.com/)
+   - [GeoDjango](https://docs.djangoproject.com/en/3.1/ref/contrib/gis/)
+ * [jQuery](https://jquery.com/)
 
 ## GIS Databases
 
- * PostgreSQL / PostGIS
- * Microsoft SQL Server
- * SQLite
-    - SpatialLite
-    - GeoPackage
+ * [PostgreSQL](https://www.postgresql.org/) / [PostGIS](https://postgis.net)
+ * [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+ * [SQLite](https://www.sqlite.org/)
+    - [SpatialLite](https://www.gaia-gis.it/fossil/libspatialite/index)
+    - [GeoPackage](https://www.geopackage.org/)
  * Oracle Spatial
- * MySQL
- * MongoDB
+ * [MySQL]
+ * [MongoDB]
 
 ## Certifications
 
- * GISP
- * Esri Technical Certification(s)
- * Project Management Professional (PMP)
+ * [GISP](https://www.gisci.org/)
+ * [Esri Technical Certification(s)](https://www.esri.com/training/certification/)
+ * [Project Management Professional (PMP)](https://www.pmi.org/certifications/project-management-pmp)
 
 ## Cartography
 

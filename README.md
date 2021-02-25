@@ -70,7 +70,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 ## Command-Line GIS Software
 
  * [GDAL](https://gdal.org/)
-    - ogr
+    - [ogr](https://gdal.org/faq.html#what-is-this-ogr-stuff)
  * [LAStools](http://lastools.org)
 
 ## Programming Languages / Environments
@@ -79,8 +79,8 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * [Python](https://python.org)
     - [ArcPy](https://www.esri.com/en-us/arcgis/products/arcgis-python-libraries/libraries/arcpy)
     - [PyQGIS](https://docs.qgis.org/3.16/en/docs/pyqgis_developer_cookbook/index.html)
-    - [GDAL/OGR]()
- * PHP
+    - [GDAL/OGR](https://gdal.org)
+ * [PHP](https://www.php.net)
  * Ruby
  * HTML / CSS
  * JavaScript
@@ -110,9 +110,9 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * [SQLite](https://www.sqlite.org/)
     - [SpatialLite](https://www.gaia-gis.it/fossil/libspatialite/index)
     - [GeoPackage](https://www.geopackage.org/)
- * Oracle Spatial
- * [MySQL]
- * [MongoDB]
+ * [Oracle Spatial](https://www.oracle.com/database/technologies/spatialandgraph.html)
+ * [MySQL](https://www.mysql.com/)
+ * [MongoDB](https://www.mongodb.com/)
 
 ## Certifications
 
@@ -122,29 +122,29 @@ Please fork and submit pull requests with your suggestions. Feel free to include
 
 ## Cartography
 
- * Mapnik
- * CartoCSS
- * d3.js
- * Adobe Illustrator
- * Adobe Photoshop
+ * [Mapnik](https://mapnik.org/)
+ * [CartoCSS](https://carto.com/developers/styling/cartocss/)
+ * [d3.js]((https://d3js.org/))
+ * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
+ * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
 ## File Formats and Standards
 
- * GeoJson
- * ShapeFiles
- * KML/KMZ
- * GeoTiff
- * GML/GPX/XML
- * WMS
- * WMTS
- * WFS
+ * [GeoJson](https://geojson.org)
+ * [ShapeFiles](https://desktop.arcgis.com/en/arcmap/10.3/manage-data/shapefiles/what-is-a-shapefile.htm)
+ * [KML/KMZ](https://developers.google.com/kml/documentation/kmzarchives)
+ * [GeoTiff](https://earthdata.nasa.gov/esdis/eso/standards-and-references/geotiff)
+ * [GML/GPX/XML](https://www.ogc.org/standards/gml)
+ * [WMS](https://www.ogc.org/standards/wms)
+ * [WMTS](https://www.ogc.org/standards/wmts)
+ * [WFS](https://www.ogc.org/standards/wfs)
  * WFS-T
- * WCS
- * File Geodatabase (GDB)
- * Personal Geodatabase (MDB / MS Access Database)
- * Feature Class
- * Feature Dataset
- * Mosaic Dataset (raster)
+ * [WCS](https://www.ogc.org/standards/wcs)
+ * [File Geodatabase (GDB)](https://desktop.arcgis.com/en/arcmap/latest/manage-data/administer-file-gdbs/file-geodatabases.htm)
+ * [Personal Geodatabase (MDB / MS Access Database)](https://desktop.arcgis.com/en/arcmap/latest/manage-data/administer-file-gdbs/personal-geodatabases.htm)
+ * [Feature Class](https://desktop.arcgis.com/en/arcmap/latest/manage-data/feature-classes/a-quick-tour-of-feature-classes.htm)
+ * [Feature Dataset](https://desktop.arcgis.com/en/arcmap/latest/manage-data/feature-datasets/an-overview-of-working-with-feature-datasets.htm)
+ * [Mosaic Dataset (raster)](https://pro.arcgis.com/en/pro-app/latest/help/data/imagery/mosaic-datasets.htm)
 
 ## Tasks
 

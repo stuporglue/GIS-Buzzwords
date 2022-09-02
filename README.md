@@ -228,7 +228,7 @@ Please fork and submit pull requests with your suggestions. Feel free to include
  * Geolocation
  * GeoEvent (Processor/Extension)
  * Military Grid Reference System (MGRS)
- * Operations Dashboard
+ * Operations Dashboard (Now ArcGIS Dashboards)
  * Point Cloud
  * Portal for ArcGIS
  * R / SPSS (Statistical analysis packages)
